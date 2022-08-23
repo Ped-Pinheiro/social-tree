@@ -1,0 +1,151 @@
+.photo {
+  border-radius: 100px;
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  left: 619px;
+  top: 207px;
+  background: #c4c4c4;
+}
+
+.textInstagram {
+  position: absolute;
+  width: 99px;
+  height: 24px;
+  left: 669px;
+  top: 429px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+  text-align: center;
+
+  color: #bb99dd;
+}
+
+.rectangleThree {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 556px;
+  top: 486px;
+
+  border: 2px solid #bb99dd;
+  border-radius: 4px;
+}
+
+.linkOne,
+.linkTwo,
+.linkThree,
+.linkFour {
+  position: absolute;
+  width: 47px;
+  height: 24px;
+  left: 145px;
+  top: 10px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+
+  /* identical to box height */
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #bb99dd;
+}
+
+.rectangleFour {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 556px;
+  top: 551px;
+
+  border: 2px solid #bb99dd;
+  border-radius: 4px;
+}
+
+.rectangleFive {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 556px;
+  top: 616px;
+
+  border: 2px solid #bb99dd;
+  border-radius: 4px;
+}
+
+.rectangleSix {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 326px;
+  height: 49px;
+  left: 556px;
+  top: 681px;
+
+  border: 2px solid #bb99dd;
+  border-radius: 4px;
+}
+
+.groupIcon {
+  width: 236px;
+  height: 24px;
+  left: 601px;
+  top: 798px;
+}
+
+.githubIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 813px;
+  top: 798px;
+}
+
+.linkedinIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 760px;
+  top: 798px;
+}
+
+.instagramIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 707px;
+  top: 798px;
+}
+
+.twitchIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 654px;
+  top: 798px;
+}
+
+.twitterIcon {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 601px;
+  top: 798px;
+}
