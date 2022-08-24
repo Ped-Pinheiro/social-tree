@@ -1,3 +1,7 @@
+body {
+  background-color: #32253f;
+}
+
 .photo {
   border-radius: 100px;
   border: solid #bb99dd;
@@ -48,7 +52,7 @@
   position: absolute;
   width: 47px;
   height: 24px;
-  left: 145px;
+  left: 130px;
   top: 10px;
   font-family: "Poppins";
   font-style: normal;
