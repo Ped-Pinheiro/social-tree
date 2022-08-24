@@ -1,10 +1,11 @@
 .photo {
   border-radius: 100px;
+  border: solid #bb99dd;
   position: absolute;
   width: 200px;
   height: 200px;
-  left: 619px;
-  top: 207px;
+  left: 107px;
+  top: 126px;
   background: #c4c4c4;
 }
 
@@ -12,8 +13,8 @@
   position: absolute;
   width: 99px;
   height: 24px;
-  left: 669px;
-  top: 429px;
+  left: 157px;
+  top: 348px;
 
   font-family: "Poppins";
   font-style: normal;
@@ -33,8 +34,8 @@
   position: absolute;
   width: 326px;
   height: 49px;
-  left: 556px;
-  top: 486px;
+  left: 44px;
+  top: 405px;
 
   border: 2px solid #bb99dd;
   border-radius: 4px;
@@ -70,8 +71,8 @@
   position: absolute;
   width: 326px;
   height: 49px;
-  left: 556px;
-  top: 551px;
+  left: 44px;
+  top: 470px;
 
   border: 2px solid #bb99dd;
   border-radius: 4px;
@@ -83,8 +84,8 @@
   position: absolute;
   width: 326px;
   height: 49px;
-  left: 556px;
-  top: 616px;
+  left: 44px;
+  top: 535px;
 
   border: 2px solid #bb99dd;
   border-radius: 4px;
@@ -96,8 +97,8 @@
   position: absolute;
   width: 326px;
   height: 49px;
-  left: 556px;
-  top: 681px;
+  left: 44px;
+  top: 600px;
 
   border: 2px solid #bb99dd;
   border-radius: 4px;
@@ -106,46 +107,46 @@
 .groupIcon {
   width: 236px;
   height: 24px;
-  left: 601px;
-  top: 798px;
+  left: 89px;
+  top: 717px;
 }
 
 .githubIcon {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 813px;
-  top: 798px;
+  left: 301px;
+  top: 717px;
 }
 
 .linkedinIcon {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 760px;
-  top: 798px;
+  left: 248px;
+  top: 717px;
 }
 
 .instagramIcon {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 707px;
-  top: 798px;
+  left: 195px;
+  top: 717px;
 }
 
 .twitchIcon {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 654px;
-  top: 798px;
+  left: 142px;
+  top: 717px;
 }
 
 .twitterIcon {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 601px;
-  top: 798px;
+  left: 89px;
+  top: 717px;
 }
