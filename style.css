@@ -1,156 +1,17 @@
-body {
-  background-color: #32253f;
-}
-
-.photo {
-  border-radius: 100px;
-  border: solid #bb99dd;
-  position: absolute;
-  width: 200px;
-  height: 200px;
-  left: 107px;
-  top: 126px;
-  background: #c4c4c4;
-}
-
-.textInstagram {
-  position: absolute;
-  width: 99px;
-  height: 24px;
-  left: 157px;
-  top: 348px;
-
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 300;
-  font-size: 16px;
-  line-height: 24px;
-
-  /* identical to box height */
-  text-align: center;
-
-  color: #bb99dd;
-}
-
-.rectangleThree {
-  box-sizing: border-box;
-
-  position: absolute;
-  width: 326px;
-  height: 49px;
-  left: 44px;
-  top: 405px;
-
+#photo {
+  width: 213px;
+  height: 213px;
   border: 2px solid #bb99dd;
-  border-radius: 4px;
 }
 
-.linkOne,
-.linkTwo,
-.linkThree,
-.linkFour {
-  position: absolute;
-  width: 47px;
-  height: 24px;
-  left: 130px;
-  top: 10px;
-  font-family: "Poppins";
-  font-style: normal;
-  font-weight: 600;
-  font-size: 16px;
-  line-height: 24px;
+#borderLinks {
+  width: 50%;
+  border: #bb99dd solid;
+}
 
-  /* identical to box height */
-  display: flex;
-  align-items: center;
-  text-align: center;
+#socialLinks {
   text-transform: uppercase;
-
+  font-size: 16px;
+  text-decoration: none;
   color: #bb99dd;
-}
-
-.rectangleFour {
-  box-sizing: border-box;
-
-  position: absolute;
-  width: 326px;
-  height: 49px;
-  left: 44px;
-  top: 470px;
-
-  border: 2px solid #bb99dd;
-  border-radius: 4px;
-}
-
-.rectangleFive {
-  box-sizing: border-box;
-
-  position: absolute;
-  width: 326px;
-  height: 49px;
-  left: 44px;
-  top: 535px;
-
-  border: 2px solid #bb99dd;
-  border-radius: 4px;
-}
-
-.rectangleSix {
-  box-sizing: border-box;
-
-  position: absolute;
-  width: 326px;
-  height: 49px;
-  left: 44px;
-  top: 600px;
-
-  border: 2px solid #bb99dd;
-  border-radius: 4px;
-}
-
-.groupIcon {
-  width: 236px;
-  height: 24px;
-  left: 89px;
-  top: 717px;
-}
-
-.githubIcon {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 301px;
-  top: 717px;
-}
-
-.linkedinIcon {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 248px;
-  top: 717px;
-}
-
-.instagramIcon {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 195px;
-  top: 717px;
-}
-
-.twitchIcon {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 142px;
-  top: 717px;
-}
-
-.twitterIcon {
-  position: absolute;
-  width: 24px;
-  height: 24px;
-  left: 89px;
-  top: 717px;
 }
